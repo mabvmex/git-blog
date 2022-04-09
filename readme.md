@@ -2,10 +2,9 @@
 
 ## My Launch X Blog: Bitácora de Viaje 🚀
 
-Hola explorer 👋 
+Hola mundo. 👋  <br/>
+Este es un blog personal cuya creación forma parte de las actividades del programa LaunchX de Microsoft. Un programa dedicado a crear/fortalecer las habilidades necesarias para cualquier programador fullstack.
 
-Realiza las indicaciones de la weekly mission y monta tu propio blog. Espero que te sirva como bitácora de aprendizaje para compartir todas tus experiencias de Launch X. 
+Aquí consentraré notas y mini-guias de configuraciones que me parezcan importantes.
 
-Así como también puedes crear tu **Workbook**:
-
-![Ilustración_sin_título 2](https://user-images.githubusercontent.com/17634377/156294681-a7d2feb4-d41e-464f-9dbf-0fbc781aa056.png)
+$ ❯ startx
