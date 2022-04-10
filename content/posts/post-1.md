@@ -1,7 +1,7 @@
 
    
 ---
-title: "Título de tu blog post"
+title: "Primer post en Hugo"
 date: 2022-03-01
 description: 'primer post en Hugo'
 ---
