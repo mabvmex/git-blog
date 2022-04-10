@@ -1,10 +1,8 @@
 ---
-title: Launch X Bitácora de viaje
-description: The hallway smelt of boiled cabbage and old rag mats.
+title: Bitácora Nerd
+description:  
 ---
 
-Hola ✌️  soy el explorer **___** y este es mi blog personal donde compartiré mis aventuras de Launch X.
+Hola ✌️  soy el explorer Miguel, [@mabvmex](https://www.twitter.com/mabvmex) y este es mi blog personal donde concentraré cosas nerd como algunos artículos,tutoriales sobre configuraciones de sistemas operativos y demás software, y cosas que me interesan.
 
-Te invito a conocer mis aprendizajes y leer mis experiencias.
-
-🚀
+Siempre aprendiendo. 🚀
