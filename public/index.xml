@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bitácora Nerd on mi burbuja nerd</title>
+    <link>https://mabvmex.github.io/git-blog/</link>
+    <description>Recent content in Bitácora Nerd on mi burbuja nerd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mabvmex.github.io/git-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primer post en Hugo</title>
+      <link>https://mabvmex.github.io/git-blog/posts/post-1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mabvmex.github.io/git-blog/posts/post-1/</guid>
+      <description>Creando post con Hugo. Entendiendo como funciona Hugo, el &amp;lsquo;framework más rápido del mundo para crear sitios web&amp;rsquo;
+ Hugo es open-source Es un generador de sitios web estaticos Está escrito en GO (golang, lenguaje creado y mantenido por Google) Utiliza licencia Apache 2.0  &amp;ldquo;Con su sorprendente velocidad y flexibilidad, Hugo permite crear sitios web de forma divertida otra vez&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>La cultura de un desarrollador de software</title>
+      <link>https://mabvmex.github.io/git-blog/posts/intro/</link>
+      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://mabvmex.github.io/git-blog/posts/intro/</guid>
+      <description>Yo creo firmemente en que los principales valores con los que debe contar un desarrollador de software profesional son los siguientes:
+ Honestidad Respeto Compromiso Responsabilidad Perseverancia  No solo como desarrollador de software, sino como persona, en cualquier entorno, estos valores deber regir nuestro día a día.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://mabvmex.github.io/git-blog/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mabvmex.github.io/git-blog/pages/about/</guid>
+      <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
+ Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
+ Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
+    </item>
+    
+  </channel>
+</rss>
